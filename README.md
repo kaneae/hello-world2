@@ -5,8 +5,13 @@ kanegae
 # 更新履歴
 
 ## 2022年3月24日
-in progress  リポジトリを作成する
+### in progress
+リポジトリをフォークする
+https://docs.github.com/ja/get-started/quickstart/fork-a-repo
+
+### done 
+リポジトリを作成する
 https://docs.github.com/ja/get-started/quickstart/create-a-repo
 
-done Helloworld
+Helloworld
 https://docs.github.com/ja/get-started/quickstart/hello-world
